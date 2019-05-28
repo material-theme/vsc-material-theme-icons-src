@@ -1,11 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="elm-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B0C3CB"/>
+      <stop offset="100%" stop-color="#78909C"/>
+    </linearGradient>
+    <linearGradient id="elm-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B1E8F8"/>
+      <stop offset="100%" stop-color="#7ACCEE"/>
+    </linearGradient>
+    <linearGradient id="elm-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B1E8F8"/>
+      <stop offset="100%" stop-color="#7ACCEE"/>
+    </linearGradient>
+    <linearGradient id="elm-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CDF082"/>
+      <stop offset="100%" stop-color="#9DBD58"/>
+    </linearGradient>
+    <linearGradient id="elm-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F8CC95"/>
+      <stop offset="100%" stop-color="#EE9D5C"/>
+    </linearGradient>
+    <linearGradient id="elm-f" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CDF082"/>
+      <stop offset="100%" stop-color="#9DBD58"/>
+    </linearGradient>
+    <linearGradient id="elm-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F8CC95"/>
+      <stop offset="100%" stop-color="#EE9D5C"/>
+    </linearGradient>
+  </defs>
   <g fill="none" fill-rule="evenodd" transform="translate(4 4)">
-    <polygon fill="#78909C" points="0 .8 11.2 12 0 23.2"/>
-    <polygon fill="#7ACCEE" points=".8 24 12 12.8 23.2 24"/>
-    <polygon fill="#7ACCEE" points="12.8 0 24 0 24 11.2"/>
-    <polygon fill="#9DBD58" points=".8 0 11.2 0 16.08 4.88 5.68 4.88"/>
-    <polygon fill="#EE9D5C" points="6.8 6 17.2 6 12 11.2"/>
-    <polygon fill="#9DBD58" points="12.8 12 18 6.8 23.2 12 18 17.2"/>
-    <polygon fill="#EE9D5C" points="18.8 18 24 12.8 24 23.2"/>
+    <polygon fill="url(#elm-a)" points="0 .8 11.2 12 0 23.2"/>
+    <polygon fill="url(#elm-b)" points=".8 24 12 12.8 23.2 24"/>
+    <polygon fill="url(#elm-c)" points="12.8 0 24 0 24 11.2"/>
+    <polygon fill="url(#elm-d)" points=".8 0 11.2 0 16.08 4.88 5.68 4.88"/>
+    <polygon fill="url(#elm-e)" points="6.8 6 17.2 6 12 11.2"/>
+    <polygon fill="url(#elm-f)" points="12.8 12 18 6.8 23.2 12 18 17.2"/>
+    <polygon fill="url(#elm-g)" points="18.8 18 24 12.8 24 23.2"/>
   </g>
 </svg>

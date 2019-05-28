@@ -1,7 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="terraform-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#6B9EDF"/>
+      <stop offset="100%" stop-color="#3965BD"/>
+    </linearGradient>
+    <linearGradient id="terraform-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B889D3"/>
+      <stop offset="100%" stop-color="#8251A8"/>
+    </linearGradient>
+    <linearGradient id="terraform-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B889D3"/>
+      <stop offset="100%" stop-color="#8251A8"/>
+    </linearGradient>
+  </defs>
   <g fill="none" fill-rule="evenodd" transform="translate(4 3)">
-    <polygon fill="#3965BD" points="15.911 8.692 15.911 16.837 23.079 12.766 23.079 4.613"/>
-    <polygon fill="#8251A8" points="7.955 4.613 15.124 8.692 15.124 16.837 7.955 12.762"/>
-    <path fill="#8251A8" d="M0,0.0645418327 L0,8.2140239 L7.16858281,12.2887649 L7.16858281,4.13928287 L0,0.0645418327 Z M7.95537849,21.8065339 L15.1239613,25.8812749 L15.1239613,17.7317928 L7.95537849,13.6570518 L7.95537849,21.8065339 Z"/>
+    <polygon fill="url(#terraform-a)" points="15.911 8.692 15.911 16.837 23.079 12.766 23.079 4.613"/>
+    <polygon fill="url(#terraform-b)" points="7.955 4.613 15.124 8.692 15.124 16.837 7.955 12.762"/>
+    <path fill="url(#terraform-c)" d="M0,0.0645418327 L0,8.2140239 L7.16858281,12.2887649 L7.16858281,4.13928287 L0,0.0645418327 Z M7.95537849,21.8065339 L15.1239613,25.8812749 L15.1239613,17.7317928 L7.95537849,13.6570518 L7.95537849,21.8065339 L7.95537849,21.8065339 Z"/>
   </g>
 </svg>

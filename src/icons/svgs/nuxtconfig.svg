@@ -1,9 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
   <defs>
-    <polygon id="nuxtconfig-a" points="8.5 7 15.512 7 23.345 7 30.357 7 19.429 26"/>
+    <linearGradient id="nuxtconfig-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#2ECC71"/>
+      <stop offset="100%" stop-color="#5BE8AA"/>
+    </linearGradient>
+    <linearGradient id="nuxtconfig-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#11A24F"/>
+      <stop offset="100%" stop-color="#26D086"/>
+    </linearGradient>
+    <linearGradient id="nuxtconfig-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#343944"/>
+      <stop offset="100%" stop-color="#646B79"/>
+    </linearGradient>
   </defs>
-  <g fill="none" fill-rule="evenodd">
-    <polygon fill="#2ECC71" points="3 5 12.228 5 17.769 5 27 5 15 26" transform="rotate(-180 15 15.5)"/>
-    <use fill="#343944" transform="rotate(-180 19.429 16.5)" xlink:href="#nuxtconfig-a"/>
+  <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(1.6 5)">
+    <polygon stroke="url(#nuxtconfig-a)" points="0 0 9.228 0 14.769 0 24 0 12 21" transform="rotate(-180 12 10.5)"/>
+    <polygon stroke="url(#nuxtconfig-b)" points="10 4 17.305 4 21.692 4 29 4 19.5 21" transform="rotate(-180 19.5 12.5)"/>
+    <polygon stroke="url(#nuxtconfig-c)" points="10 9 15.383 9 18.615 9 24 9 17 21" transform="rotate(-180 17 15)"/>
   </g>
 </svg>

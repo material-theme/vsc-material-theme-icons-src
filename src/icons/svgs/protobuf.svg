@@ -1,11 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="protobuf-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#636B7A"/>
+      <stop offset="100%" stop-color="#343944"/>
+    </linearGradient>
+    <linearGradient id="protobuf-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#A3CDDB"/>
+      <stop offset="100%" stop-color="#6A9FB5"/>
+    </linearGradient>
+    <linearGradient id="protobuf-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B1E8F8"/>
+      <stop offset="100%" stop-color="#7ACCEE"/>
+    </linearGradient>
+    <linearGradient id="protobuf-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CDF082"/>
+      <stop offset="100%" stop-color="#9DBD58"/>
+    </linearGradient>
+    <linearGradient id="protobuf-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFA7CD"/>
+      <stop offset="100%" stop-color="#FF6E9F"/>
+    </linearGradient>
+  </defs>
   <g fill="none" fill-rule="evenodd" transform="translate(3 2)">
-    <path fill="#343944" d="M13,0 L0.987,7.02 L0.987,21.02 L13,28 L25,20.9 L25.013,7.1 L13,0 Z M23.954,20.3 L13,26.78 L2.038,20.408 L2.038,7.628 L13,1.22 L23.966,7.7 L23.954,20.3 Z"/>
-    <polygon fill="#6A9FB5" points="22.569 11.654 16.946 14.964 16.943 22.89 22.59 19.565"/>
-    <polygon fill="#7ACCEE" points="20.282 10.303 22.569 11.654 16.946 14.964 16.943 22.89 14.327 21.37 14.348 13.875"/>
+    <path fill="url(#protobuf-a)" d="M13,0 L0.987,7.02 L0.987,21.02 L13,28 L25,20.9 L25.013,7.1 L13,0 Z M23.954,20.3 L13,26.78 L2.038,20.408 L2.038,7.628 L13,1.22 L23.966,7.7 L23.954,20.3 Z"/>
+    <polygon fill="url(#protobuf-b)" points="22.569 11.654 16.946 14.964 16.943 22.89 22.59 19.565"/>
+    <polygon fill="url(#protobuf-c)" points="20.282 10.303 22.569 11.654 16.946 14.964 16.943 22.89 14.327 21.37 14.348 13.875"/>
     <polygon fill="#9DBD58" points="19.512 8.35 19.514 9.816 13.411 13.498 13.418 21.597 11.998 22.431 11.994 12.856"/>
-    <polygon fill="#AEE33E" points="17.008 6.871 19.512 8.35 11.994 12.856 11.998 22.431 9.194 20.801 9.189 11.413"/>
+    <polygon fill="url(#protobuf-d)" points="17.008 6.871 19.512 8.35 11.994 12.856 11.998 22.431 9.194 20.801 9.189 11.413"/>
     <polygon fill="#AA759F" points="16.226 4.606 16.226 6.374 8.21 11.074 8.21 21.172 6.808 21.988 6.835 10.277"/>
-    <polygon fill="#FF6E9F" points="13.16 2.784 3.53 8.394 3.529 20.071 6.827 21.988 6.835 10.277 16.235 4.606"/>
+    <polygon fill="url(#protobuf-e)" points="13.16 2.784 3.53 8.394 3.529 20.071 6.827 21.988 6.835 10.277 16.235 4.606"/>
   </g>
 </svg>
