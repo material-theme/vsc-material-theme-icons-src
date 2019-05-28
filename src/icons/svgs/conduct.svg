@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="conduct-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAE1AD"/>
+      <stop offset="100%" stop-color="#F4BF75"/>
+    </linearGradient>
+    <linearGradient id="conduct-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#CDF082"/>
+      <stop offset="100%" stop-color="#9DBD58"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(5 4)">
+    <path fill="url(#conduct-a)" fill-rule="nonzero" d="M21,0 L1,0 C0.447,0 0,0.448 0,1 L0,23 C0,23.552 0.447,24 1,24 L21,24 C21.553,24 22,23.552 22,23 L22,1 C22,0.448 21.553,0 21,0 Z M19,21 L3,21 L3,3 L6,3 L6,6 L9,6 C9,4.895 9.895,4 11,4 C12.105,4 13,4.895 13,6 L16,6 L16,3 L19,3 L19,21 Z"/>
+    <path fill="url(#conduct-b)" d="M10,17 C9.744,17 9.488,16.902 9.293,16.707 L6.586,14 L8,12.586 L10,14.586 L14,10.586 L15.414,12 L10.707,16.707 C10.512,16.902 10.256,17 10,17 Z"/>
+  </g>
+</svg>

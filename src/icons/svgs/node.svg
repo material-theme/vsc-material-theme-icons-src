@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <path id="node-a" d="M12,0 C11.7768601,0 11.5558865,0.0556924618 11.3560355,0.169754908 L0.643964525,6.26138567 C0.243450003,6.48951056 0,6.92969521 0,7.38621274 L0,19.6120469 C0,20.0690999 0.243720804,20.4870611 0.643964525,20.7157215 L11.3560355,26.8285047 C11.75655,27.0571651 12.24345,27.0571651 12.6439645,26.8285047 L23.3560355,20.7157215 C23.7557376,20.4870611 24,20.0690999 24,19.6120469 L24,7.38621274 C24,6.92889195 23.75655,6.48951056 23.3560355,6.26138567 L12.6439645,0.169754908 C12.4441135,0.0556924618 12.2231399,0 12,0"/>
+    <linearGradient id="node-b" x1="95.002%" x2="10.217%" y1="62.308%" y2="37.692%">
+      <stop offset="0%" stop-color="#AEE33E"/>
+      <stop offset="100%" stop-color="#D7FF81"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(4 3)">
+    <mask id="node-c" fill="#fff">
+      <use xlink:href="#node-a"/>
+    </mask>
+    <use fill="#9DBD58" xlink:href="#node-a"/>
+    <polygon fill="url(#node-b)" points="-2.114 6.357 25.886 6.357 25.886 20.249 -2.114 20.249" mask="url(#node-c)" transform="rotate(60 11.886 13.303)"/>
+  </g>
+</svg>

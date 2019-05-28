@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <polygon id="nuxtconfig-a" points="8.5 7 15.512 7 23.345 7 30.357 7 19.429 26"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#2ECC71" points="3 5 12.228 5 17.769 5 27 5 15 26" transform="rotate(-180 15 15.5)"/>
+    <use fill="#343944" transform="rotate(-180 19.429 16.5)" xlink:href="#nuxtconfig-a"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="angular-component-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#6B9EDF"/>
+      <stop offset="100%" stop-color="#3965BD"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" transform="translate(5 4)">
+    <polygon fill="url(#angular-component-a)" points="11 0 11 0 11 0 .105 3.984 1.767 18.756 11 24 11 24 11 24 20.233 18.756 21.895 3.984"/>
+    <polygon fill="#343944" points="11 0 11 2.664 11 2.652 11 14.808 11 14.808 11 24 11 24 20.233 18.756 21.895 3.984" opacity=".235"/>
+    <path fill="#FFF" d="M11,2.652 L4.1893617,18.312 L4.1893617,18.312 L6.7287234,18.312 L6.7287234,18.312 L8.09787234,14.808 L13.8787234,14.808 L15.2478723,18.312 L15.2478723,18.312 L17.787234,18.312 L17.787234,18.312 L11,2.652 L11,2.652 L11,2.652 L11,2.652 L11,2.652 Z M12.9893617,12.648 L9.0106383,12.648 L11,7.74 L12.9893617,12.648 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+*.log
+*.~lock
+*.js
+!src/icons/partials/*.js
+**/*.map
+*.gulp/**.js
+dist/
+node_modules/
+.DS_Store
+/themes
+/icons

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="liquid-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#A3CDDB"/>
+      <stop offset="100%" stop-color="#6A9FB5"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#liquid-a)" d="M9.71,0.295 C9.334,-0.083 8.666,-0.083 8.29,0.295 C7.952,0.637 0,8.711 0,14 C0,19.634 4.576,23 9,23 C13.424,23 18,19.634 18,14 C18,8.711 10.048,0.637 9.71,0.295 Z M10,18 L9,18 C7.454,18 5,16.914 5,14 L5,13 L7,13 L7,14 C7,15.946 8.98,16 9,16 L10,16 L10,18 Z" transform="translate(7 5)"/>
+</svg>

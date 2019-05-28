@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="haxe-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCC640"/>
+      <stop offset="100%" stop-color="#F7941E"/>
+    </linearGradient>
+    <linearGradient id="haxe-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFDD2B"/>
+      <stop offset="100%" stop-color="#FDB813"/>
+    </linearGradient>
+    <linearGradient id="haxe-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDD238"/>
+      <stop offset="100%" stop-color="#FAA61A"/>
+    </linearGradient>
+    <linearGradient id="haxe-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAA845"/>
+      <stop offset="100%" stop-color="#F36F21"/>
+    </linearGradient>
+    <linearGradient id="haxe-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FBB843"/>
+      <stop offset="100%" stop-color="#F58220"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" transform="translate(6 6)">
+    <rect width="15" height="15" x="2.5" y="2.5" fill="url(#haxe-a)"/>
+    <polygon fill="url(#haxe-b)" points="0 0 .625 5 2.5 10 10 2.5 5 .625"/>
+    <polygon fill="url(#haxe-c)" points="0 20 5 19.375 10 17.5 2.5 10 .625 15"/>
+    <polygon fill="url(#haxe-d)" points="20 20 19.375 15 17.5 10 10 17.5 15 19.375"/>
+    <polygon fill="url(#haxe-e)" points="20 0 15 .625 10 2.5 17.5 10 19.375 5"/>
+    <polygon fill="#FFCB08" points="0 0 10 2.5 5 0"/>
+    <polygon fill="#FFF200" points="0 0 0 5 2.5 10"/>
+    <polygon fill="#FFF200" points="0 20 2.5 10 0 15"/>
+    <polygon fill="#F4813C" points="0 20 5 20 10 17.5"/>
+    <polygon fill="#F7941E" points="20 20 10 17.5 15 20"/>
+    <polygon fill="#F15922" points="20 20 20 15 17.5 10"/>
+    <polygon fill="#F15922" points="20 0 17.5 10 20 5"/>
+    <polygon fill="#FFCB08" points="20 0 15 0 10 2.5"/>
+  </g>
+</svg>

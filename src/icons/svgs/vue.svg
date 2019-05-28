@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="vue-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#8EFBBC"/>
+      <stop offset="100%" stop-color="#2ECC71"/>
+    </linearGradient>
+    <polygon id="vue-b" points="0 0 9.228 0 12 4.913 14.769 0 24 0 12 20.881"/>
+    <linearGradient id="vue-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#636B7A"/>
+      <stop offset="100%" stop-color="#343944"/>
+    </linearGradient>
+    <polygon id="vue-d" points="4.571 0 9.338 0 12 4.715 14.662 0 19.429 0 12 12.76"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(4 6)">
+    <use fill="url(#vue-a)" fill-rule="nonzero" xlink:href="#vue-b"/>
+    <use fill="url(#vue-c)" xlink:href="#vue-d"/>
+  </g>
+</svg>
