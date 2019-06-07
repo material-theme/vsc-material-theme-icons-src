@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="ruby-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#EA7D7F"/>
-      <stop offset="100%" stop-color="#D14748"/>
-    </linearGradient>
-    <linearGradient id="ruby-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FAE1AD"/>
-      <stop offset="100%" stop-color="#F4BF75"/>
-    </linearGradient>
-  </defs>
   <g fill="none" fill-rule="evenodd">
-    <path fill="url(#ruby-a)" fill-rule="nonzero" d="M22.768,5.36 C22.578,5.132 22.297,5 22,5 L10,5 C9.703,5 9.422,5.132 9.232,5.36 L4.232,11.36 C3.938,11.713 3.922,12.221 4.193,12.591 L15.193,27.591 C15.382,27.848 15.682,28 16,28 C16.318,28 16.618,27.848 16.807,27.591 L27.807,12.591 C28.078,12.22 28.063,11.713 27.768,11.36 L22.768,5.36 Z"/>
-    <rect width="14" height="2" x="9" y="11" fill="url(#ruby-b)" opacity=".9"/>
+    <path fill="#D14748" fill-rule="nonzero" d="M22.768,5.36 C22.578,5.132 22.297,5 22,5 L10,5 C9.703,5 9.422,5.132 9.232,5.36 L4.232,11.36 C3.938,11.713 3.922,12.221 4.193,12.591 L15.193,27.591 C15.382,27.848 15.682,28 16,28 C16.318,28 16.618,27.848 16.807,27.591 L27.807,12.591 C28.078,12.22 28.063,11.713 27.768,11.36 L22.768,5.36 Z"/>
+    <rect width="14" height="2" x="9" y="11" fill="#F4BF75" opacity=".9"/>
   </g>
 </svg>

@@ -1,12 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="coldfusion-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#56468F"/>
-      <stop offset="100%" stop-color="#2B2256"/>
-    </linearGradient>
-  </defs>
   <g fill="none" fill-rule="evenodd">
-    <path fill="url(#coldfusion-a)" stroke="#C1C9E7" stroke-width="2" d="M4,4 L4,28 L28,28 L28,4 L4,4 Z"/>
+    <path fill="#2B2256" stroke="#C1C9E7" stroke-width="2" d="M4,4 L4,28 L28,28 L28,4 L4,4 Z"/>
     <text fill="#C1C9E7" font-family="SFProDisplay-Heavy, SF Pro Display" font-size="14" font-weight="600">
       <tspan x="8" y="21">Cf</tspan>
     </text>

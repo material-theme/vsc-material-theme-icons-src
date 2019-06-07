@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="mxml-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#EA7D7F"/>
-      <stop offset="100%" stop-color="#D14748"/>
-    </linearGradient>
-    <linearGradient id="mxml-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#F8CC95"/>
-      <stop offset="100%" stop-color="#EE9D5C"/>
-    </linearGradient>
-  </defs>
   <g fill="none" transform="translate(4 5)">
-    <path fill="url(#mxml-a)" d="M5,0 L1,0 C0.448,0 0,0.448 0,1 L0,21 C0,21.552 0.448,22 1,22 L5,22 L5,0 Z"/>
-    <path fill="url(#mxml-b)" d="M7,0 L7,22 L23,22 C23.552,22 24,21.552 24,21 L24,1 C24,0.448 23.552,0 23,0 L7,0 Z M11,4 L14,4 L14,6 L11,6 L11,4 Z M14,18 L11,18 L11,16 L14,16 L14,18 Z M17,14 L13,14 L13,12 L17,12 L17,14 Z M20,10 L14,10 L14,8 L20,8 L20,10 Z"/>
+    <path fill="#D14748" d="M5,0 L1,0 C0.448,0 0,0.448 0,1 L0,21 C0,21.552 0.448,22 1,22 L5,22 L5,0 Z"/>
+    <path fill="#EE9D5C" d="M7,0 L7,22 L23,22 C23.552,22 24,21.552 24,21 L24,1 C24,0.448 23.552,0 23,0 L7,0 Z M11,4 L14,4 L14,6 L11,6 L11,4 Z M14,18 L11,18 L11,16 L14,16 L14,18 Z M17,14 L13,14 L13,12 L17,12 L17,14 Z M20,10 L14,10 L14,8 L20,8 L20,10 Z"/>
   </g>
 </svg>

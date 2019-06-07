@@ -1,17 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="xaml-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#B1E8F8"/>
-      <stop offset="100%" stop-color="#7ACCEE"/>
-    </linearGradient>
-    <linearGradient id="xaml-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#A3CDDB"/>
-      <stop offset="100%" stop-color="#6A9FB5"/>
-    </linearGradient>
-  </defs>
   <g fill="none" fill-rule="evenodd">
-    <polygon fill="url(#xaml-a)" fill-rule="nonzero" points="22.93 16 19.46 22 12.54 22 9.07 16 12.54 10 19.46 10"/>
-    <polygon fill="url(#xaml-b)" points="27.77 16 23.73 23 22 22 25.46 16 22 10 23.73 9"/>
-    <polygon fill="url(#xaml-b)" points="4.23 16 8.27 9 10 10 6.54 16 10 22 8.27 23"/>
+    <polygon fill="#7ACCEE" fill-rule="nonzero" points="22.93 16 19.46 22 12.54 22 9.07 16 12.54 10 19.46 10"/>
+    <polygon fill="#6A9FB5" points="27.77 16 23.73 23 22 22 25.46 16 22 10 23.73 9"/>
+    <polygon fill="#6A9FB5" points="4.23 16 8.27 9 10 10 6.54 16 10 22 8.27 23"/>
   </g>
 </svg>

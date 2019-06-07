@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="movie-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#F8CC95"/>
-      <stop offset="100%" stop-color="#EE9D5C"/>
-    </linearGradient>
-    <linearGradient id="movie-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FAE1AD"/>
-      <stop offset="100%" stop-color="#F4BF75"/>
-    </linearGradient>
-  </defs>
   <g fill="none" fill-rule="evenodd">
-    <path fill="url(#movie-a)" fill-rule="nonzero" d="M26,11 L6,11 C5.448,11 5,11.447 5,12 L5,26 C5,26.553 5.448,27 6,27 L26,27 C26.552,27 27,26.553 27,26 L27,12 C27,11.447 26.552,11 26,11 Z M13,23 L13,15 L20,19 L13,23 Z"/>
-    <polygon fill="url(#movie-b)" fill-rule="nonzero" points="4.001 5.111 25.702 5.111 25.702 7.111 4.001 7.111" transform="rotate(-11.531 14.851 6.111)"/>
+    <path fill="#EE9D5C" fill-rule="nonzero" d="M26,11 L6,11 C5.448,11 5,11.447 5,12 L5,26 C5,26.553 5.448,27 6,27 L26,27 C26.552,27 27,26.553 27,26 L27,12 C27,11.447 26.552,11 26,11 Z M13,23 L13,15 L20,19 L13,23 Z"/>
+    <polygon fill="#F4BF75" fill-rule="nonzero" points="4.001 5.111 25.702 5.111 25.702 7.111 4.001 7.111" transform="rotate(-11.531 14.851 6.111)"/>
   </g>
 </svg>

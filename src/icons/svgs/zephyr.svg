@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="zephyr-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#B889D3"/>
-      <stop offset="100%" stop-color="#8251A8"/>
-    </linearGradient>
-    <linearGradient id="zephyr-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#D5ADCD"/>
-      <stop offset="100%" stop-color="#AA759F"/>
-    </linearGradient>
-  </defs>
   <g fill="none" fill-rule="evenodd" transform="translate(3 4)">
-    <polygon fill="url(#zephyr-a)" points="11.802 0 0 14.737 9.864 23.965"/>
-    <polygon fill="url(#zephyr-b)" points="11.802 0 9.864 23.965 25.824 14.632"/>
+    <polygon fill="#8251A8" points="11.802 0 0 14.737 9.864 23.965"/>
+    <polygon fill="#AA759F" points="11.802 0 9.864 23.965 25.824 14.632"/>
   </g>
 </svg>

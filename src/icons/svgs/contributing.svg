@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="contributing-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FAE1AD"/>
-      <stop offset="100%" stop-color="#F4BF75"/>
-    </linearGradient>
-    <linearGradient id="contributing-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#D5AD91"/>
-      <stop offset="100%" stop-color="#AB7558"/>
-    </linearGradient>
-  </defs>
   <g fill="none" transform="translate(6 3)">
-    <path fill="url(#contributing-a)" d="M19,3 L17,3 L17,8 L3,8 L3,3 L1,3 C0.447,3 0,3.447 0,4 L0,23 C0,23.553 0.447,24 1,24 L19,24 C19.553,24 20,23.553 20,23 L20,4 C20,3.447 19.553,3 19,3 Z M16,19 L4,19 L4,17 L16,17 L16,19 Z M16,14 L4,14 L4,12 L16,12 L16,14 Z"/>
-    <path fill="url(#contributing-b)" d="M12,2 C12,0.895 11.105,0 10,0 C8.895,0 8,0.895 8,2 L5,2 L5,6 L15,6 L15,2 L12,2 Z"/>
+    <path fill="#F4BF75" d="M19,3 L17,3 L17,8 L3,8 L3,3 L1,3 C0.447,3 0,3.447 0,4 L0,23 C0,23.553 0.447,24 1,24 L19,24 C19.553,24 20,23.553 20,23 L20,4 C20,3.447 19.553,3 19,3 Z M16,19 L4,19 L4,17 L16,17 L16,19 Z M16,14 L4,14 L4,12 L16,12 L16,14 Z"/>
+    <path fill="#AB7558" d="M12,2 C12,0.895 11.105,0 10,0 C8.895,0 8,0.895 8,2 L5,2 L5,6 L15,6 L15,2 L12,2 Z"/>
   </g>
 </svg>

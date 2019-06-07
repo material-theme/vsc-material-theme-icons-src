@@ -1,16 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="source-a" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#B1E8F8"/>
-      <stop offset="100%" stop-color="#7ACCEE"/>
-    </linearGradient>
-    <linearGradient id="source-b" x1="100%" x2="0%" y1="49.415%" y2="50.585%">
-      <stop offset="0%" stop-color="#EA7D7F"/>
-      <stop offset="100%" stop-color="#D14748"/>
-    </linearGradient>
-  </defs>
   <g fill="none" transform="translate(5 6)">
-    <path fill="url(#source-a)" d="M5 15.414L.293 10.707C-.098 10.316-.098 9.684.293 9.293L5 4.586 6.414 6 2.414 10 6.414 14 5 15.414zM17 15.414L15.586 14 19.586 10 15.586 6 17 4.586 21.707 9.293C22.098 9.684 22.098 10.316 21.707 10.707L17 15.414z"/>
-    <rect width="18.493" height="2" x="1.754" y="9" fill="url(#source-b)" transform="rotate(-75.954 11 10)"/>
+    <path fill="#7ACCEE" d="M5 15.414L.293 10.707C-.098 10.316-.098 9.684.293 9.293L5 4.586 6.414 6 2.414 10 6.414 14 5 15.414zM17 15.414L15.586 14 19.586 10 15.586 6 17 4.586 21.707 9.293C22.098 9.684 22.098 10.316 21.707 10.707L17 15.414z"/>
+    <rect width="18.493" height="2" x="1.754" y="9" fill="#D14748" transform="rotate(-75.954 11 10)"/>
   </g>
 </svg>
