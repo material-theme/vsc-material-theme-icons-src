@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd" transform="translate(4 3)">
-    <polygon fill="#3965BD" points="15.911 8.692 15.911 16.837 23.079 12.766 23.079 4.613"/>
-    <polygon fill="#8251A8" points="7.955 4.613 15.124 8.692 15.124 16.837 7.955 12.762"/>
-    <path fill="#8251A8" d="M0,0.0645418327 L0,8.2140239 L7.16858281,12.2887649 L7.16858281,4.13928287 L0,0.0645418327 Z M7.95537849,21.8065339 L15.1239613,25.8812749 L15.1239613,17.7317928 L7.95537849,13.6570518 L7.95537849,21.8065339 L7.95537849,21.8065339 Z"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="terraform">
+<g id="logo-hashicorp-3f10732f">
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M9.79701 6.00098V9.77844L13.1216 7.89071V4.10925L9.79701 6.00098Z" fill="#3965BD"/>
+<path id="Path_2" fill-rule="evenodd" clip-rule="evenodd" d="M6.10756 4.10925L9.43211 6.00098V9.77844L6.10756 7.88871L6.10756 4.10925Z" fill="#9883EC"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M2.41812 2V5.77946L5.74267 7.66919V3.88973L2.41812 2ZM6.10756 12.0832L9.43211 13.973V10.1935L6.10756 8.30376V12.0832Z" fill="#9883EC"/>
+</g>
+</g>
 </svg>

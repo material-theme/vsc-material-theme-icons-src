@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <path fill="#3965BD" d="M0,1 L0,23 C0,23.552 0.448,24 1,24 L21,24 C21.552,24 22,23.552 22,23 L22,1 C22,0.448 21.552,0 21,0 L1,0 C0.448,0 0,0.448 0,1 Z M4,5 L10,5 L10,11 L4,11 L4,5 Z M18,19 L4,19 L4,17 L18,17 L18,19 Z M18,15 L4,15 L4,13 L18,13 L18,15 Z M18,11 L12,11 L12,9 L18,9 L18,11 Z M18,7 L12,7 L12,5 L18,5 L18,7 Z" transform="translate(5 4)"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="word">
+<g id="single-paragraph">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 13.5V2.5C2.5 2.224 2.724 2 3 2H13C13.276 2 13.5 2.224 13.5 2.5V13.5C13.5 13.776 13.276 14 13 14H3C2.724 14 2.5 13.776 2.5 13.5ZM7.5 4.5H4.5V7.5H7.5V4.5ZM11.5 11.5H4.5V10.5H11.5V11.5ZM4.5 9.5H11.5V8.5H4.5V9.5ZM11.5 7.5H8.5V6.5H11.5V7.5ZM8.5 5.5H11.5V4.5H8.5V5.5Z" fill="#3965BD"/>
+</g>
+</g>
 </svg>

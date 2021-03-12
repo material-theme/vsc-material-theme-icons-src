@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd" transform="translate(4 4)">
-    <polygon fill="#78909C" points="0 .8 11.2 12 0 23.2"/>
-    <polygon fill="#7ACCEE" points=".8 24 12 12.8 23.2 24"/>
-    <polygon fill="#7ACCEE" points="12.8 0 24 0 24 11.2"/>
-    <polygon fill="#9DBD58" points=".8 0 11.2 0 16.08 4.88 5.68 4.88"/>
-    <polygon fill="#EE9D5C" points="6.8 6 17.2 6 12 11.2"/>
-    <polygon fill="#9DBD58" points="12.8 12 18 6.8 23.2 12 18 17.2"/>
-    <polygon fill="#EE9D5C" points="18.8 18 24 12.8 24 23.2"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="elm">
+<g id="css-tips">
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M3 3.33337L7.66667 8.00004L3 12.6667V3.33337Z" fill="#6B7394"/>
+<path id="Path_2" fill-rule="evenodd" clip-rule="evenodd" d="M3.33333 13L7.99999 8.33337L12.6667 13H3.33333Z" fill="#89DDFF"/>
+<path id="Path_3" fill-rule="evenodd" clip-rule="evenodd" d="M8.33333 3H13V7.66667L8.33333 3Z" fill="#89DDFF"/>
+<path id="Path_4" fill-rule="evenodd" clip-rule="evenodd" d="M3.33333 3H7.66666L9.7 5.03333H5.36666L3.33333 3Z" fill="#C3E88D"/>
+<path id="Path_5" fill-rule="evenodd" clip-rule="evenodd" d="M5.83333 5.5H10.1667L7.99999 7.66667L5.83333 5.5Z" fill="#FFCB6B"/>
+<path id="Path_6" fill-rule="evenodd" clip-rule="evenodd" d="M8.33333 8.00004L10.5 5.83337L12.6667 8.00004L10.5 10.1667L8.33333 8.00004Z" fill="#C3E88D"/>
+<path id="Path_7" fill-rule="evenodd" clip-rule="evenodd" d="M10.8333 10.5L13 8.33337V12.6667L10.8333 10.5Z" fill="#FFCB6B"/>
+</g>
+</g>
 </svg>

@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" transform="translate(4 5)">
-    <path fill="#7ACCEE" d="M4 3L4 0 1 0C.448 0 0 .448 0 1L0 3 4 3zM24 3L24 1C24 .448 23.552 0 23 0L6 0 6 3 24 3z"/>
-    <path fill="#3965BD" d="M0,5 L0,21 C0,21.552 0.448,22 1,22 L23,22 C23.552,22 24,21.552 24,21 L24,5 L0,5 Z M8.707,13.707 L5,17.414 L3.586,16 L6.586,13 L3.586,10 L5,8.586 L8.707,12.293 C9.098,12.684 9.098,13.316 8.707,13.707 Z M17,17 L11,17 L11,15 L17,15 L17,17 Z"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cmd">
+<g id="window-code">
+<path id="Shape" d="M4 4V2.5H2.5C2.224 2.5 2 2.724 2 3V4H4Z" fill="#89DDFF"/>
+<path id="Shape_2" d="M14 4V3C14 2.724 13.776 2.5 13.5 2.5H5V4H14Z" fill="#89DDFF"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M2 5V13C2 13.276 2.224 13.5 2.5 13.5H13.5C13.776 13.5 14 13.276 14 13V5H2ZM6.3535 9.3535L4.5 11.207L3.793 10.5L5.293 9L3.793 7.5L4.5 6.793L6.3535 8.6465C6.549 8.842 6.549 9.158 6.3535 9.3535ZM7.5 11H10.5V10H7.5V11Z" fill="#3965BD"/>
+</g>
+</g>
 </svg>

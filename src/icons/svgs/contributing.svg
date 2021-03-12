@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" transform="translate(6 3)">
-    <path fill="#F4BF75" d="M19,3 L17,3 L17,8 L3,8 L3,3 L1,3 C0.447,3 0,3.447 0,4 L0,23 C0,23.553 0.447,24 1,24 L19,24 C19.553,24 20,23.553 20,23 L20,4 C20,3.447 19.553,3 19,3 Z M16,19 L4,19 L4,17 L16,17 L16,19 Z M16,14 L4,14 L4,12 L16,12 L16,14 Z"/>
-    <path fill="#AB7558" d="M12,2 C12,0.895 11.105,0 10,0 C8.895,0 8,0.895 8,2 L5,2 L5,6 L15,6 L15,2 L12,2 Z"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="contributing">
+<g id="notes">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M12.5 3H11.5V5.5H4.5V3H3.5C3.2235 3 3 3.2235 3 3.5V13C3 13.2765 3.2235 13.5 3.5 13.5H12.5C12.7765 13.5 13 13.2765 13 13V3.5C13 3.2235 12.7765 3 12.5 3ZM11 11H5V10H11V11ZM5 8.5H11V7.5H5V8.5Z" fill="#82AAFF"/>
+<path id="Shape_2" d="M9 2.5C9 1.9475 8.5525 1.5 8 1.5C7.4475 1.5 7 1.9475 7 2.5H5.5V4.5H10.5V2.5H9Z" fill="#FF9CAC"/>
+</g>
+</g>
 </svg>

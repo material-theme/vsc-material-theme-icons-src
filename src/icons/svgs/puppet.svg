@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd" transform="translate(8 4)">
-    <path fill="#EE9D5C" fill-rule="nonzero" d="M10.5350981,8.596483 L15.9573837,8.596483 L15.9573837,15.4079531 L10.6953054,15.4079531 L6.30440464,19.640034 L4.58139878,17.9793497 L8.89029551,13.8263066 L8.89029551,10.332542 L5.77011158,7.32521579 L7.49311743,5.66453143 L10.5350981,8.596483 Z"/>
-    <polygon fill="#F4BF75" fill-rule="nonzero" points="7.565 7.319 .055 7.319 .055 .081 7.565 .081"/>
-    <polygon fill="#F4BF75" fill-rule="nonzero" points="7.565 23.923 .055 23.923 .055 16.686 7.565 16.686"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="puppet">
+<g id="Group 3">
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M6.88507 5.66262L7.74657 4.83228L9.26756 6.29825H11.9787V9.70398H9.34768L7.15221 11.82L6.29071 10.9897L8.44516 8.91318V7.16628L6.88507 5.66262Z" fill="#F78C6C"/>
+<path id="path4188" d="M7.78233 5.6594H4.02765V2.04053H7.78233V5.6594Z" fill="#FFCB6B"/>
+<path id="path4198" d="M7.78233 13.9617H4.02765V10.3428H7.78233V13.9617Z" fill="#FFCB6B"/>
+</g>
+</g>
 </svg>

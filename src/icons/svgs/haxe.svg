@@ -1,17 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" transform="translate(6 6)">
-    <rect width="15" height="15" x="2.5" y="2.5" fill="#F7941E"/>
-    <polygon fill="#FDB813" points="0 0 .625 5 2.5 10 10 2.5 5 .625"/>
-    <polygon fill="#FAA61A" points="0 20 5 19.375 10 17.5 2.5 10 .625 15"/>
-    <polygon fill="#F36F21" points="20 20 19.375 15 17.5 10 10 17.5 15 19.375"/>
-    <polygon fill="#F58220" points="20 0 15 .625 10 2.5 17.5 10 19.375 5"/>
-    <polygon fill="#FFCB08" points="0 0 10 2.5 5 0"/>
-    <polygon fill="#FFF200" points="0 0 0 5 2.5 10"/>
-    <polygon fill="#FFF200" points="0 20 2.5 10 0 15"/>
-    <polygon fill="#F4813C" points="0 20 5 20 10 17.5"/>
-    <polygon fill="#F7941E" points="20 20 10 17.5 15 20"/>
-    <polygon fill="#F15922" points="20 20 20 15 17.5 10"/>
-    <polygon fill="#F15922" points="20 0 17.5 10 20 5"/>
-    <polygon fill="#FFCB08" points="20 0 15 0 10 2.5"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="haxe">
+<g id="haxe_2">
+<rect id="Rectangle-path" x="4.25" y="4.25" width="7.5" height="7.5" fill="#FFCB6B"/>
+<path id="Shape" d="M3 3L3.3125 5.5L4.25 8L8 4.25L5.5 3.3125L3 3Z" fill="#F78C6C"/>
+<path id="Shape_2" d="M3 13L5.5 12.6875L8 11.75L4.25 8L3.3125 10.5L3 13Z" fill="#F78C6C"/>
+<path id="Shape_3" d="M13 13L12.6875 10.5L11.75 8L8 11.75L10.5 12.6875L13 13Z" fill="#F78C6C"/>
+<path id="Shape_4" d="M13 3L10.5 3.3125L8 4.25L11.75 8L12.6875 5.5L13 3Z" fill="#F78C6C"/>
+<path id="Shape_5" d="M3 3L8 4.25L5.5 3H3Z" fill="#FFCB08"/>
+<path id="Shape_6" d="M3 3V5.5L4.25 8L3 3Z" fill="#FFF200"/>
+<path id="Shape_7" d="M3 13L4.25 8L3 10.5V13Z" fill="#FFF200"/>
+<path id="Shape_8" d="M3 13H5.5L8 11.75L3 13Z" fill="#F78C6C"/>
+<path id="Shape_9" d="M13 13L8 11.75L10.5 13H13Z" fill="#F7941E"/>
+<path id="Shape_10" d="M13 13V10.5L11.75 8L13 13Z" fill="#F15922"/>
+<path id="Shape_11" d="M13 3L11.75 8L13 5.5V3Z" fill="#F15922"/>
+<path id="Shape_12" d="M13 3H10.5L8 4.25L13 3Z" fill="#FFCB08"/>
+</g>
+</g>
 </svg>

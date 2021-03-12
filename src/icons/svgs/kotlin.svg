@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd">
-    <polygon fill="#3965BD" fill-rule="nonzero" points="4 28 16.04 15.96 28 28"/>
-    <polygon fill="#3965BD" fill-rule="nonzero" points="4 4 16.04 4 4 17"/>
-    <polygon fill="#EE9D5C" fill-rule="nonzero" points="16.04 4 4 16.68 4 28 16.04 15.96 28 4"/>
-  </g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="kotlin">
+<path id="XMLID_2_" d="M2 14L8.02 7.97998L14 14H2Z" fill="#3965BD"/>
+<path id="Shape" d="M2 2H8.02L2 8.5V2Z" fill="#3965BD"/>
+<path id="Shape_2" d="M8.02 2L2 8.34V14L8.02 7.98L14 2H8.02Z" fill="#F78C6C"/>
+</g>
 </svg>
